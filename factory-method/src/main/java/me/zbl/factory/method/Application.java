@@ -31,6 +31,7 @@ import org.slf4j.LoggerFactory;
  */
 public class Application {
 
+  //first
   private final Cook cook;
 
   private static final Logger LOGGER = LoggerFactory.getLogger(Application.class);
